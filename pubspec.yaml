@@ -19,7 +19,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_bloc: ^8.0.1  
+  flutter_bloc: ^8.0.1
+  http: ^0.13.4  
  
 
 
@@ -32,6 +33,7 @@ dependencies:
   flutter_bluetooth_serial: ^0.4.0
   syncfusion_flutter_sliders: ^19.4.54
   flutter_blue: ^0.8.0
+  dio: ^4.0.4
 
 dev_dependencies:
   flutter_test:
